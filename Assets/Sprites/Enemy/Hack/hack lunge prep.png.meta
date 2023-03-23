@@ -1,0 +1,807 @@
+fileFormatVersion: 2
+guid: 45d96ba3b1782414c940de3c2d79f4cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2298695567385815173
+    second: Hack Frenzyy Prep (1)_0
+  - first:
+      213: -1683632800286076355
+    second: Hack Frenzyy Prep (1)_1
+  - first:
+      213: -8856691038589332721
+    second: Hack Frenzyy Prep (1)_2
+  - first:
+      213: -802361103792114860
+    second: Hack Frenzyy Prep (1)_3
+  - first:
+      213: -221645847171911659
+    second: Hack Frenzyy Prep (1)_4
+  - first:
+      213: -202640557220446559
+    second: Hack Frenzyy Prep (1)_5
+  - first:
+      213: 2083375648664959288
+    second: Hack Frenzyy Prep (1)_6
+  - first:
+      213: -7059056327793775679
+    second: Hack Frenzyy Prep (1)_7
+  - first:
+      213: -9007132143668385273
+    second: Hack Frenzyy Prep (1)_8
+  - first:
+      213: -609955287534995717
+    second: Hack Frenzyy Prep (1)_9
+  - first:
+      213: -2305911404442423425
+    second: Hack Frenzyy Prep (1)_10
+  - first:
+      213: -3283933313670250196
+    second: Hack Frenzyy Prep (1)_11
+  - first:
+      213: -5444119688036230275
+    second: Hack Frenzyy Prep (1)_12
+  - first:
+      213: -4707773566746010234
+    second: Hack Frenzyy Prep (1)_13
+  - first:
+      213: 4529328589415477366
+    second: Hack Frenzyy Prep (1)_14
+  - first:
+      213: 3996961740295274636
+    second: Hack Frenzyy Prep (1)_15
+  - first:
+      213: 9204372059968274120
+    second: Hack Frenzyy Prep (1)_16
+  - first:
+      213: 8661262131917372893
+    second: Hack Frenzyy Prep (1)_17
+  - first:
+      213: -238361582412334013
+    second: Hack Frenzyy Prep (1)_18
+  - first:
+      213: -2820301172204973607
+    second: Hack Frenzyy Prep (1)_19
+  - first:
+      213: 3043664307034640750
+    second: Hack Frenzyy Prep (1)_20
+  - first:
+      213: -5922067427053070763
+    second: Hack Frenzyy Prep (1)_21
+  - first:
+      213: -1536881232851466306
+    second: Hack Frenzyy Prep (1)_22
+  - first:
+      213: 4515547364755239953
+    second: Hack Frenzyy Prep (1)_23
+  - first:
+      213: 66578333318024450
+    second: hack lunge prep_0
+  - first:
+      213: -7282730442696021423
+    second: hack lunge prep_1
+  - first:
+      213: 5390951524550006749
+    second: hack lunge prep_2
+  - first:
+      213: -1905884624076005147
+    second: hack lunge prep_3
+  - first:
+      213: -4085256047456484608
+    second: hack lunge prep_4
+  - first:
+      213: -5889051184071167502
+    second: hack lunge prep_5
+  - first:
+      213: -9141198505942097952
+    second: hack lunge prep_6
+  - first:
+      213: 4983661419945631300
+    second: hack lunge prep_7
+  - first:
+      213: -6446117889285309807
+    second: hack lunge prep_8
+  - first:
+      213: -160702441212974098
+    second: hack lunge prep_9
+  - first:
+      213: 2952477826075740028
+    second: hack lunge prep_10
+  - first:
+      213: 7634412983054927310
+    second: hack lunge prep_11
+  - first:
+      213: -7377880430023533922
+    second: hack lunge prep_12
+  - first:
+      213: 222374142530539409
+    second: hack lunge prep_13
+  - first:
+      213: -3734674457253371725
+    second: hack lunge prep_14
+  - first:
+      213: 1678834001501428909
+    second: hack lunge prep_15
+  - first:
+      213: 7126909854475700054
+    second: hack lunge prep_16
+  - first:
+      213: -2612621107896334829
+    second: hack lunge prep_17
+  - first:
+      213: 7056153601459970938
+    second: hack lunge prep_18
+  - first:
+      213: -5370788795592764249
+    second: hack lunge prep_19
+  - first:
+      213: 960762260713714006
+    second: hack lunge prep_20
+  - first:
+      213: -698649114052876525
+    second: hack lunge prep_21
+  - first:
+      213: 4678778520334256320
+    second: hack lunge prep_22
+  - first:
+      213: -1503091558733076575
+    second: hack lunge prep_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hack lunge prep_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d882334a88ce000800000000000000
+      internalID: 66578333318024450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a2e287f3b8eea90800000000000000
+      internalID: -7282730442696021423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7572e59d180da40800000000000000
+      internalID: 5390951524550006749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0221f3800fc85e0800000000000000
+      internalID: -1905884624076005147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00307daf4414e47c0800000000000000
+      internalID: -4085256047456484608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1385d4623e54ea0800000000000000
+      internalID: -5889051184071167502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef5df71460f32180800000000000000
+      internalID: -9141198505942097952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e9da828a5892540800000000000000
+      internalID: 4983661419945631300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19abbd4cee9ca86a0800000000000000
+      internalID: -6446117889285309807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb66fc2bf115cdf0800000000000000
+      internalID: -160702441212974098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77467e90fe49f820800000000000000
+      internalID: 2952477826075740028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec58e93c822e2f960800000000000000
+      internalID: 7634412983054927310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a142da6d08c9990800000000000000
+      internalID: -7377880430023533922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fc3ccba18061300800000000000000
+      internalID: 222374142530539409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b020b74e55cb2cc0800000000000000
+      internalID: -3734674457253371725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac175821aa6c4710800000000000000
+      internalID: 1678834001501428909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657414ea0ced7e260800000000000000
+      internalID: 7126909854475700054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316c623d1fa1ebbd0800000000000000
+      internalID: -2612621107896334829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a736d9fb05e7ce160800000000000000
+      internalID: 7056153601459970938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a49b0bcb002775b0800000000000000
+      internalID: -5370788795592764249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651317f8f20555d00800000000000000
+      internalID: 960762260713714006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317ac361556ed46f0800000000000000
+      internalID: -698649114052876525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c84047664c5ee040800000000000000
+      internalID: 4678778520334256320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hack lunge prep_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7a3d8e032f32be0800000000000000
+      internalID: -1503091558733076575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hack lunge prep_4: -4085256047456484608
+      hack lunge prep_16: 7126909854475700054
+      hack lunge prep_6: -9141198505942097952
+      hack lunge prep_21: -698649114052876525
+      hack lunge prep_12: -7377880430023533922
+      hack lunge prep_9: -160702441212974098
+      hack lunge prep_10: 2952477826075740028
+      hack lunge prep_11: 7634412983054927310
+      hack lunge prep_1: -7282730442696021423
+      hack lunge prep_3: -1905884624076005147
+      hack lunge prep_20: 960762260713714006
+      hack lunge prep_5: -5889051184071167502
+      hack lunge prep_17: -2612621107896334829
+      hack lunge prep_13: 222374142530539409
+      hack lunge prep_15: 1678834001501428909
+      hack lunge prep_7: 4983661419945631300
+      hack lunge prep_19: -5370788795592764249
+      hack lunge prep_18: 7056153601459970938
+      hack lunge prep_8: -6446117889285309807
+      hack lunge prep_14: -3734674457253371725
+      hack lunge prep_22: 4678778520334256320
+      hack lunge prep_0: 66578333318024450
+      hack lunge prep_2: 5390951524550006749
+      hack lunge prep_23: -1503091558733076575
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

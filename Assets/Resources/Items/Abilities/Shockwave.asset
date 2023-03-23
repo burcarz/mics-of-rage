@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c97fdde883e96341947629a34a7fed9, type: 3}
+  m_Name: Shockwave
+  m_EditorClassIdentifier: 
+  ID: 98266
+  prefab: {fileID: 0}
+  displayName: 
+  type: 0
+  description: 
+  icon: {fileID: 0}
+  rarity: 0
+  cost: 0
+  flavor: 
+  inActive: 0
+  cooldownTime: 0
+  activeTime: 2
+  energyCost: 0
+  expandRate: 0
+  stunTime: 2
+  particleSys: {fileID: 3795069489159169172, guid: 1074f47d15f5e8e46bfd9c8041fd63c7, type: 3}
+  collider: {fileID: 0}
+  stunActivate: 0
